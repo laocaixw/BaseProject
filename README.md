@@ -1,0 +1,2 @@
+# BaseProject
+Android base project
